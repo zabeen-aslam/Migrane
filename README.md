@@ -26,12 +26,14 @@ This project demonstrates the application of **data analysis, preprocessing, and
 - Jupyter Notebook  
 
 ---
-
-## 📂 Project Structure
+## Folder Structure
+```text
 Migrane/
 ├── README.md
-└── migrane.ipynb
-
+├── migrane.ipynb
+└── data/
+    └── migraine.csv
+```
 ---
 
 ## 🔍 Methodology
@@ -73,15 +75,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Run the notebook
 jupyter notebook
 Open migrane.ipynb and run all cells.
+```
 
----
-
-## 📊Future Improvements
--Use a larger dataset
--Apply advanced models (Random Forest, XGBoost)
--Add feature importance analysis
--Deploy as a web application
-👤 Author
-Zabeen Aslam
-Acknowledgment
-This project was developed for learning and practicing Machine Learning, Data Analysis, and GitHub project deployment.
+## 🚀 Future Improvements
+- Use a larger dataset
+- Apply advanced models (Random Forest, XGBoost)
+- Add feature importance analysis
+- Deploy as a web application
+## 👤 Author
+- Zabeen Aslam
+## Acknowledgment
+- This project was developed for learning and practicing Machine Learning, Data Analysis, and GitHub project deployment.
