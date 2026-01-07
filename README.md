@@ -29,7 +29,6 @@ This project demonstrates the application of **data analysis, preprocessing, and
 
 ## 📂 Project Structure
 Migrane/
-│
 ├── README.md
 ├── migrane.ipynb
 
@@ -65,7 +64,6 @@ Migrane/
 ---
 
 ## ▶️ How to Run the Project
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/zabeen-aslam/Migrane.git
@@ -75,7 +73,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Run the notebook
 jupyter notebook
 Open migrane.ipynb and run all cells.
-## Future Improvements
+##
+## 📊Future Improvements
 Use a larger dataset
 Apply advanced models (Random Forest, XGBoost)
 Add feature importance analysis
