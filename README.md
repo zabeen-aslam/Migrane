@@ -30,7 +30,7 @@ This project demonstrates the application of **data analysis, preprocessing, and
 ## 📂 Project Structure
 Migrane/
 ├── README.md
-├── migrane.ipynb
+└── migrane.ipynb
 
 ---
 
@@ -73,12 +73,14 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Run the notebook
 jupyter notebook
 Open migrane.ipynb and run all cells.
-##
+
+---
+
 ## 📊Future Improvements
-Use a larger dataset
-Apply advanced models (Random Forest, XGBoost)
-Add feature importance analysis
-Deploy as a web application
+-Use a larger dataset
+-Apply advanced models (Random Forest, XGBoost)
+-Add feature importance analysis
+-Deploy as a web application
 👤 Author
 Zabeen Aslam
 Acknowledgment
